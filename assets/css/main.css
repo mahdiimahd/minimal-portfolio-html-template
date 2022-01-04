@@ -82,7 +82,7 @@ height: 47px;
 float: center;
 text-align: center;
 border-bottom: 1px solid black;
-position: absolute;
+position: relative;
 }
 
 /* ==================================================
