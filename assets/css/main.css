@@ -131,7 +131,11 @@ h7{
 	
 }
 
-.center{
+span {
+	text-align: center;
+}
+
+span12 {
 	text-align: center;
 }
 
