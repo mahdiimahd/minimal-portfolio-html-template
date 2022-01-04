@@ -77,7 +77,7 @@ textarea::input-placeholder {
 }
 
  .line{
-width: 1000px;
+width: 80%;
 height: 47px;
 border-bottom: 1px solid black;
 position: absolute;
